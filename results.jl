@@ -58,3 +58,17 @@
 {"domain": "xmakekudo.com", "da": 1, "pa": 6.51}
 {"domain": "naicana.com", "da": 1, "pa": 1}
 {"domain": "vapelovely.com", "da": 16.49, "pa": 7.28}
+{"domain": "tqshai.com", "da": 1, "pa": 1}
+{"domain": "spain-uk.com", "da": 1, "pa": 11.81}
+{"domain": "evo-trader.com", "da": 1, "pa": 1}
+{"domain": "napiere.com", "da": 1, "pa": 13.86}
+{"domain": "eyesight-g.com", "da": 25.42, "pa": 16.1}
+{"domain": "fevergin.com", "da": 1, "pa": 6.24}
+{"domain": "sitiofeliz.com", "da": 1, "pa": 8.28}
+{"domain": "zeolitepro.com", "da": 1, "pa": 4.76}
+{"domain": "shoro7at-n.com", "da": 1, "pa": 1}
+{"domain": "oh-dakota.com", "da": 28.3, "pa": 14.09}
+{"domain": "yahsibati.com", "da": 1, "pa": 12.72}
+{"domain": "lavatorial.com", "da": 1, "pa": 1}
+{"domain": "ps3console.com", "da": 1, "pa": 1}
+{"domain": "henryvo.com", "da": 17.43, "pa": 6.62}

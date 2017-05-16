@@ -35,7 +35,7 @@ for domain in domains:
     resp = run_request(domain)
 
     response_body = json.loads(resp.text)
-    print(response_body)
+    # print(response_body)
     response_body = response_body[0]
 
     remaining_count = resp.headers.get('X-RateLimit-Remaining')
