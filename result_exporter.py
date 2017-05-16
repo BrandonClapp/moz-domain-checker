@@ -1,6 +1,7 @@
 def write(item):
+    # write json lines
     with open('results.txt', 'a') as result_file: # a for append
-        result_file.write(item + ',\n')
+        result_file.write(item + '\n')
 
 
 def skip(domain):
