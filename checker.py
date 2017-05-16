@@ -2,7 +2,7 @@ import math
 import requests
 import json
 from domain_importer import content as domains
-import result_exporter
+from result_exporter import write, log
 from datetime import datetime
 import time
 
@@ -20,7 +20,7 @@ def run_request(domain):
         resp = requests.post("https://mozbar.moz.com/bartender/url-metrics", data=json.dumps(payload), cookies=cookies,
                          headers=headers, timeout=5)
     except requests.exceptions.Timeout:
-        print('Request for domain %s timed out. Trying again.' %(domain))
+        log('Request for domain %s timed out. Trying again.' %(domain))
         resp = run_request(domain)
 
     if resp.status_code == 429:
@@ -36,17 +36,21 @@ for domain in domains:
 
     response_body = json.loads(resp.text)
     # print(response_body)
-    response_body = response_body[0]
+    try:
+        response_body = response_body[0]
+    except KeyError:
+        log('Could not get response body [0]. Skipping. Response body was: %s' %(response_body))
+        continue
 
     remaining_count = resp.headers.get('X-RateLimit-Remaining')
     reset_time_unix = resp.headers.get('X-RateLimit-Reset')
 
     reset_time = datetime.fromtimestamp(int(reset_time_unix))
-    print('Remaining: %s' %(remaining_count))
+    log('Remaining: %s' %(remaining_count))
     # print('Reset time: %s' %(reset_time))
 
     reset_seconds = math.floor((reset_time - datetime.now()).seconds)
-    print('Seconds until reset: ', reset_seconds)
+    log('Seconds until reset: ' + reset_seconds)
 
     pa = round(response_body.get('pda'), 2)
     da = round(response_body.get('upa'), 2)
@@ -57,12 +61,12 @@ for domain in domains:
         'pa': pa
     }
 
-    print(rpt)
+    log(rpt)
     result_exporter.write(json.dumps(rpt))
 
     if int(remaining_count) == 0:
         if reset_seconds > 86000: # 24 hours was returned for some reason.
-            print('Not waiting 24 hours. How about 25 seconds instead.')
+            log('Not waiting 24 hours. How about 25 seconds instead.')
             reset_seconds = 25
-        print('Sleeping for', reset_seconds + 5, 'seconds.')
+        log('Sleeping for ' + (reset_seconds + 5) + 'seconds.')
         time.sleep(reset_seconds + 5)
