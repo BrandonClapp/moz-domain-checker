@@ -5,7 +5,7 @@ pa_threshold = 10
 
 consider_list = []
 
-with open('sample-analyze.jl', 'rb') as file:
+with open('results.jl', 'rb') as file:
     for line in json_lines.reader(file):
         if line['da'] >= da_threshold and line['pa'] >= pa_threshold:
             consider_list.append(line)
