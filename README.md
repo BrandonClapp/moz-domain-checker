@@ -11,6 +11,7 @@ CLI tool for checking and reporting Moz domain name statistics. This tool with g
 **Usage**
 1. Clone repository (`git clone https://github.com/BrandonClapp/moz-domain-checker`)
 2. Navigate to `settings.py` and change the `access_id` and `secret_key` to the appropriate values. To obtain these values, sign up for a free Mozscape account at https://moz.com/products/api
+  - Note: Free accounts are limited to 25,000 rows per month and throttled to 1 request (containing a maximum of 10 domains) per 10 seconds.
 3. Populate `domains.txt` with a list of desired domain names. i.e.
 
 ```
