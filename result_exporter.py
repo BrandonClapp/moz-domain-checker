@@ -1,3 +1,5 @@
+import time
+
 def write(item):
     # write json lines
     if not isinstance(item, str):
