@@ -3,7 +3,7 @@ import time
 from datetime import datetime
 from mozscape import Mozscape, MOZRANK, DOMAIN_AUTHORITY, PAGE_AUTHORITY
 from domain_importer import content as domains, chunks
-from result_exporter import write, log, log_skip
+from result_exporter import write, log, skip
 import settings
 
 domain_chunks = chunks(domains, 10)
@@ -17,7 +17,7 @@ for chunk in domain_chunks:
         metrics = client.urlMetrics(chunk)
     except MozscapeError as e:
         log('ERROR! : %s' %(e))
-        # TODO: do something with errors.
+        skip(chunk)
         continue
 
     for idx, domain in enumerate(chunk):
@@ -41,5 +41,5 @@ for chunk in domain_chunks:
             log('\nFound potential good domain: %s\n' %(str(result)))
             write(result)
 
-    log('Sleeping for 11 seconds.')
-    time.sleep(11)
+    log('Sleeping for %s seconds.' %(str(settings.request_interval)))
+    time.sleep(settings.request_interval)
