@@ -1,0 +1,243 @@
+05/16/17 19:02:38 Central Daylight Time - b'{\n      "status" : "401",\n      "error_message" : "Permission denied: kophjgpaldmkklmpkonkllpnjapjjgofiephjp"\n    }'
+05/16/17 19:02:38 Central Daylight Time - b'{\n      "status" : "401",\n      "error_message" : "Permission denied: degnamgkcjfadbffdeeacbghakgdamhpbognaf"\n    }'
+05/16/17 19:02:39 Central Daylight Time - b'{\n      "status" : "401",\n      "error_message" : "Permission denied: jhmokpmjikpdjcpgjhodicmekjmakpnmlnmokg"\n    }'
+05/16/17 19:03:27 Central Daylight Time - b'{\n      "status" : "401",\n      "error_message" : "Permission denied: omlfnelcpbiiojinomjipjlpncllnekhmglfnn"\n    }'
+05/16/17 19:06:01 Central Daylight Time - <class 'str'>
+05/16/17 19:06:25 Central Daylight Time - b'{\n      "status" : "401",\n      "error_message" : "Permission denied: kdpkjlpnlomhkgmckdnhlgpajnpejloiijpkjc"\n    }'
+05/16/17 20:11:34 Central Daylight Time - Starting request
+05/16/17 20:12:42 Central Daylight Time - Starting request
+05/16/17 20:12:43 Central Daylight Time - {'domain': 'avatar-mod.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:12:43 Central Daylight Time - Sleeping for 11 seconds.
+05/16/17 20:13:20 Central Daylight Time - Starting request
+05/16/17 20:13:21 Central Daylight Time - {'domain': 'avatar-mod.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:13:21 Central Daylight Time - {'domain': 'chi-opendi.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:13:21 Central Daylight Time - {'domain': 'deshtunes.com', 'mozrank': 3.41, 'da': 21.97, 'pa': 27.41}
+05/16/17 20:13:21 Central Daylight Time - Found potential good domain. {'domain': 'deshtunes.com', 'mozrank': 3.41, 'da': 21.97, 'pa': 27.41}
+05/16/17 20:14:54 Central Daylight Time - Starting request
+05/16/17 20:14:55 Central Daylight Time - {'domain': 'avatar-mod.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:14:55 Central Daylight Time - {'domain': 'chi-opendi.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:14:55 Central Daylight Time - {'domain': 'deshtunes.com', 'mozrank': 3.41, 'da': 21.97, 'pa': 27.41}
+05/16/17 20:14:55 Central Daylight Time - Found potential good domain. {'domain': 'deshtunes.com', 'mozrank': 3.41, 'da': 21.97, 'pa': 27.41}
+05/16/17 20:14:55 Central Daylight Time - {'domain': 'ramaturizm.com', 'mozrank': 5.66, 'da': 28.22, 'pa': 26.94}
+05/16/17 20:14:55 Central Daylight Time - Found potential good domain. {'domain': 'ramaturizm.com', 'mozrank': 5.66, 'da': 28.22, 'pa': 26.94}
+05/16/17 20:14:55 Central Daylight Time - {'domain': 'tyroar.com', 'mozrank': 0, 'da': 8.58, 'pa': 18.93}
+05/16/17 20:14:55 Central Daylight Time - {'domain': '21stam.com', 'mozrank': 0, 'da': 3.21, 'pa': 19.16}
+05/16/17 20:14:55 Central Daylight Time - {'domain': 'twyxmotor.com', 'mozrank': 6.21, 'da': 30.19, 'pa': 35.58}
+05/16/17 20:14:55 Central Daylight Time - Found potential good domain. {'domain': 'twyxmotor.com', 'mozrank': 6.21, 'da': 30.19, 'pa': 35.58}
+05/16/17 20:14:55 Central Daylight Time - {'domain': 'scdongniao.com', 'mozrank': 0, 'da': 7.08, 'pa': 1}
+05/16/17 20:14:55 Central Daylight Time - {'domain': 'bjzmlaw.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:14:55 Central Daylight Time - {'domain': 'banitweb.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:14:55 Central Daylight Time - Sleeping for 11 seconds.
+05/16/17 20:17:02 Central Daylight Time - Starting request
+05/16/17 20:17:03 Central Daylight Time - {'domain': 'avatar-mod.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:17:03 Central Daylight Time - {'domain': 'chi-opendi.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:17:03 Central Daylight Time - {'domain': 'deshtunes.com', 'mozrank': 3.41, 'da': 21.97, 'pa': 27.41}
+05/16/17 20:17:03 Central Daylight Time - 
+Found potential good domain. {'domain': 'deshtunes.com', 'mozrank': 3.41, 'da': 21.97, 'pa': 27.41}
+
+05/16/17 20:17:03 Central Daylight Time - {'domain': 'ramaturizm.com', 'mozrank': 5.66, 'da': 28.22, 'pa': 26.94}
+05/16/17 20:17:03 Central Daylight Time - 
+Found potential good domain. {'domain': 'ramaturizm.com', 'mozrank': 5.66, 'da': 28.22, 'pa': 26.94}
+
+05/16/17 20:17:03 Central Daylight Time - {'domain': 'tyroar.com', 'mozrank': 0, 'da': 8.58, 'pa': 18.93}
+05/16/17 20:17:03 Central Daylight Time - {'domain': '21stam.com', 'mozrank': 0, 'da': 3.21, 'pa': 19.16}
+05/16/17 20:17:03 Central Daylight Time - {'domain': 'twyxmotor.com', 'mozrank': 6.21, 'da': 30.19, 'pa': 35.58}
+05/16/17 20:17:03 Central Daylight Time - 
+Found potential good domain. {'domain': 'twyxmotor.com', 'mozrank': 6.21, 'da': 30.19, 'pa': 35.58}
+
+05/16/17 20:17:03 Central Daylight Time - {'domain': 'scdongniao.com', 'mozrank': 0, 'da': 7.08, 'pa': 1}
+05/16/17 20:17:03 Central Daylight Time - {'domain': 'bjzmlaw.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:17:03 Central Daylight Time - {'domain': 'banitweb.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:17:03 Central Daylight Time - Sleeping for 11 seconds.
+05/16/17 20:19:07 Central Daylight Time - Starting request
+05/16/17 20:19:09 Central Daylight Time - {'domain': 'avatar-mod.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:19:09 Central Daylight Time - {'domain': 'chi-opendi.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:19:09 Central Daylight Time - {'domain': 'deshtunes.com', 'mozrank': 3.41, 'da': 21.97, 'pa': 27.41}
+05/16/17 20:19:09 Central Daylight Time - 
+Found potential good domain: {'domain': 'deshtunes.com', 'mozrank': 3.41, 'da': 21.97, 'pa': 27.41}
+
+05/16/17 20:19:09 Central Daylight Time - {'domain': 'ramaturizm.com', 'mozrank': 5.66, 'da': 28.22, 'pa': 26.94}
+05/16/17 20:19:09 Central Daylight Time - 
+Found potential good domain: {'domain': 'ramaturizm.com', 'mozrank': 5.66, 'da': 28.22, 'pa': 26.94}
+
+05/16/17 20:19:09 Central Daylight Time - {'domain': 'tyroar.com', 'mozrank': 0, 'da': 8.58, 'pa': 18.93}
+05/16/17 20:19:09 Central Daylight Time - {'domain': '21stam.com', 'mozrank': 0, 'da': 3.21, 'pa': 19.16}
+05/16/17 20:19:09 Central Daylight Time - {'domain': 'twyxmotor.com', 'mozrank': 6.21, 'da': 30.19, 'pa': 35.58}
+05/16/17 20:19:09 Central Daylight Time - 
+Found potential good domain: {'domain': 'twyxmotor.com', 'mozrank': 6.21, 'da': 30.19, 'pa': 35.58}
+
+05/16/17 20:19:09 Central Daylight Time - {'domain': 'scdongniao.com', 'mozrank': 0, 'da': 7.08, 'pa': 1}
+05/16/17 20:19:09 Central Daylight Time - {'domain': 'bjzmlaw.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:19:09 Central Daylight Time - {'domain': 'banitweb.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:19:09 Central Daylight Time - Sleeping for 11 seconds.
+05/16/17 20:19:20 Central Daylight Time - Starting request
+05/16/17 20:19:21 Central Daylight Time - {'domain': 'e-ravesh.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:19:21 Central Daylight Time - {'domain': 'myngul.com', 'mozrank': 0, 'da': 5.66, 'pa': 1}
+05/16/17 20:19:21 Central Daylight Time - {'domain': 'u-follow.com', 'mozrank': 0, 'da': 3.09, 'pa': 1}
+05/16/17 20:19:21 Central Daylight Time - {'domain': 'oldhouseu.com', 'mozrank': 0, 'da': 21.17, 'pa': 1}
+05/16/17 20:19:21 Central Daylight Time - {'domain': 'funnyknow.com', 'mozrank': 0, 'da': 5.88, 'pa': 1}
+05/16/17 20:19:21 Central Daylight Time - {'domain': 'foxous.com', 'mozrank': 0, 'da': 5.55, 'pa': 20.11}
+05/16/17 20:19:21 Central Daylight Time - {'domain': 'mytfmsub.com', 'mozrank': 0, 'da': 17.47, 'pa': 1}
+05/16/17 20:19:21 Central Daylight Time - {'domain': 'europ-sac.com', 'mozrank': 0, 'da': 15.57, 'pa': 20.68}
+05/16/17 20:19:21 Central Daylight Time - {'domain': 'jxbeishu.com', 'mozrank': 0, 'da': 6.35, 'pa': 1}
+05/16/17 20:19:21 Central Daylight Time - {'domain': 'crushplate.com', 'mozrank': 0, 'da': 19.8, 'pa': 31.11}
+05/16/17 20:19:21 Central Daylight Time - Sleeping for 11 seconds.
+05/16/17 20:19:32 Central Daylight Time - Starting request
+05/16/17 20:19:33 Central Daylight Time - {'domain': 'spypascher.com', 'mozrank': 0, 'da': 10.28, 'pa': 14.89}
+05/16/17 20:19:33 Central Daylight Time - {'domain': 'corpfox.com', 'mozrank': 0, 'da': 13.84, 'pa': 17.01}
+05/16/17 20:19:33 Central Daylight Time - {'domain': 'funzony.com', 'mozrank': 0, 'da': 9.11, 'pa': 1}
+05/16/17 20:19:33 Central Daylight Time - {'domain': 'mahdi-rom.com', 'mozrank': 3.36, 'da': 12.06, 'pa': 23.11}
+05/16/17 20:19:33 Central Daylight Time - {'domain': 'news-scrap.com', 'mozrank': 3.91, 'da': 11.46, 'pa': 25.58}
+05/16/17 20:19:33 Central Daylight Time - {'domain': 'ravekind.com', 'mozrank': 0, 'da': 11.75, 'pa': 1}
+05/16/17 20:19:33 Central Daylight Time - {'domain': 'elmundo-re.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:19:33 Central Daylight Time - {'domain': 'homecips.com', 'mozrank': 0, 'da': 3.09, 'pa': 19.06}
+05/16/17 20:19:33 Central Daylight Time - {'domain': '5atbj.com', 'mozrank': 0, 'da': 9.31, 'pa': 1}
+05/16/17 20:19:33 Central Daylight Time - {'domain': 'new-dl.com', 'mozrank': 2.25, 'da': 10.09, 'pa': 24.86}
+05/16/17 20:19:33 Central Daylight Time - Sleeping for 11 seconds.
+05/16/17 20:19:44 Central Daylight Time - Starting request
+05/16/17 20:19:45 Central Daylight Time - {'domain': 'lebaneesh.com', 'mozrank': 0, 'da': 6.18, 'pa': 1}
+05/16/17 20:19:45 Central Daylight Time - {'domain': 'applecoon.com', 'mozrank': 0, 'da': 10.57, 'pa': 15.19}
+05/16/17 20:19:45 Central Daylight Time - {'domain': 'hefys.com', 'mozrank': 0, 'da': 9.91, 'pa': 15.2}
+05/16/17 20:19:45 Central Daylight Time - {'domain': 'jruman.com', 'mozrank': 0, 'da': 21.17, 'pa': 7.22}
+05/16/17 20:19:45 Central Daylight Time - {'domain': 'shlaerswim.com', 'mozrank': 0, 'da': 8.63, 'pa': 1}
+05/16/17 20:19:45 Central Daylight Time - {'domain': 'twin21obp.com', 'mozrank': 3.28, 'da': 9.98, 'pa': 17.77}
+05/16/17 20:19:45 Central Daylight Time - {'domain': 'kizlarmoda.com', 'mozrank': 0, 'da': 7.61, 'pa': 17.67}
+05/16/17 20:19:45 Central Daylight Time - {'domain': 'scgrass.com', 'mozrank': 0, 'da': 12.87, 'pa': 1}
+05/16/17 20:19:45 Central Daylight Time - {'domain': 'jobzillas.com', 'mozrank': 0, 'da': 5.95, 'pa': 1}
+05/16/17 20:19:45 Central Daylight Time - {'domain': 'satotat.com', 'mozrank': 0, 'da': 12.66, 'pa': 1}
+05/16/17 20:19:45 Central Daylight Time - Sleeping for 11 seconds.
+05/16/17 20:19:56 Central Daylight Time - Starting request
+05/16/17 20:19:57 Central Daylight Time - {'domain': 'shhuanyang.com', 'mozrank': 0, 'da': 11.43, 'pa': 1}
+05/16/17 20:19:57 Central Daylight Time - {'domain': 'fsweiqi.com', 'mozrank': 0, 'da': 9.74, 'pa': 1}
+05/16/17 20:19:57 Central Daylight Time - {'domain': 'novacanho.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:19:57 Central Daylight Time - {'domain': 'brysii.com', 'mozrank': 0, 'da': 8.39, 'pa': 1}
+05/16/17 20:19:57 Central Daylight Time - {'domain': 'brevoapp.com', 'mozrank': 0, 'da': 8.62, 'pa': 1}
+05/16/17 20:19:57 Central Daylight Time - {'domain': 'bestfails2.com', 'mozrank': 4.35, 'da': 9.49, 'pa': 24.44}
+05/16/17 20:19:57 Central Daylight Time - {'domain': 'fostern.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:19:57 Central Daylight Time - {'domain': 'csyea.com', 'mozrank': 0, 'da': 10.38, 'pa': 1}
+05/16/17 20:19:57 Central Daylight Time - {'domain': 'thesaikat.com', 'mozrank': 0, 'da': 4.58, 'pa': 1}
+05/16/17 20:19:57 Central Daylight Time - {'domain': 'samarooj.com', 'mozrank': 0, 'da': 6.68, 'pa': 1}
+05/16/17 20:19:57 Central Daylight Time - Sleeping for 11 seconds.
+05/16/17 20:20:08 Central Daylight Time - Starting request
+05/16/17 20:20:09 Central Daylight Time - {'domain': 'mayaamirah.com', 'mozrank': 0, 'da': 12.12, 'pa': 13.77}
+05/16/17 20:20:09 Central Daylight Time - {'domain': 'xaxinjin.com', 'mozrank': 0, 'da': 12.24, 'pa': 1}
+05/16/17 20:20:09 Central Daylight Time - {'domain': 'connienaka.com', 'mozrank': 0, 'da': 7.11, 'pa': 18.35}
+05/16/17 20:20:09 Central Daylight Time - {'domain': 'winbondtw.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:20:09 Central Daylight Time - {'domain': 'oilbricks.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:20:09 Central Daylight Time - {'domain': 'exlitaly.com', 'mozrank': 0, 'da': 13.96, 'pa': 1}
+05/16/17 20:20:09 Central Daylight Time - {'domain': 'wenesia.com', 'mozrank': 4.74, 'da': 16.1, 'pa': 23.7}
+05/16/17 20:20:09 Central Daylight Time - {'domain': 'mpsiinc.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:20:09 Central Daylight Time - {'domain': 'altaccept.com', 'mozrank': 0, 'da': 15.31, 'pa': 24.07}
+05/16/17 20:20:09 Central Daylight Time - {'domain': 'ajannaret.com', 'mozrank': 3.66, 'da': 10.28, 'pa': 19.83}
+05/16/17 20:20:09 Central Daylight Time - Sleeping for 11 seconds.
+05/16/17 20:20:20 Central Daylight Time - Starting request
+05/16/17 20:20:21 Central Daylight Time - {'domain': 'otashop.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:20:21 Central Daylight Time - {'domain': 'zeppyo.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:20:21 Central Daylight Time - {'domain': 'funayapark.com', 'mozrank': 0, 'da': 22.97, 'pa': 31.11}
+05/16/17 20:20:21 Central Daylight Time - {'domain': 'arab-techs.com', 'mozrank': 0, 'da': 10.67, 'pa': 21.43}
+05/16/17 20:20:21 Central Daylight Time - {'domain': 'bocaijiazu.com', 'mozrank': 0, 'da': 21.95, 'pa': 1}
+05/16/17 20:20:21 Central Daylight Time - {'domain': 'trilcenter.com', 'mozrank': 0, 'da': 24.67, 'pa': 33.46}
+05/16/17 20:20:21 Central Daylight Time - {'domain': 'ab3andme.com', 'mozrank': 0, 'da': 6.71, 'pa': 1}
+05/16/17 20:20:21 Central Daylight Time - {'domain': 'mgade.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:20:21 Central Daylight Time - {'domain': 'moms1drs2.com', 'mozrank': 0, 'da': 6.09, 'pa': 19.07}
+05/16/17 20:20:21 Central Daylight Time - {'domain': 'epllaliga.com', 'mozrank': 3.26, 'da': 6.81, 'pa': 21.11}
+05/16/17 20:20:21 Central Daylight Time - Sleeping for 11 seconds.
+05/16/17 20:20:32 Central Daylight Time - Starting request
+05/16/17 20:20:33 Central Daylight Time - {'domain': 'esingurani.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:20:33 Central Daylight Time - {'domain': 'saporepo.com', 'mozrank': 5.91, 'da': 18.82, 'pa': 27.71}
+05/16/17 20:20:33 Central Daylight Time - {'domain': 'shnewit.com', 'mozrank': 0, 'da': 8.19, 'pa': 1}
+05/16/17 20:20:33 Central Daylight Time - {'domain': 'tori-zou.com', 'mozrank': 3.83, 'da': 13.7, 'pa': 27.97}
+05/16/17 20:20:33 Central Daylight Time - {'domain': 'omwlife.com', 'mozrank': 0, 'da': 11.17, 'pa': 1}
+05/16/17 20:20:33 Central Daylight Time - {'domain': 'liveonset.com', 'mozrank': 0, 'da': 5.51, 'pa': 1}
+05/16/17 20:20:33 Central Daylight Time - {'domain': 'cdyinji.com', 'mozrank': 0, 'da': 25.81, 'pa': 30.78}
+05/16/17 20:20:33 Central Daylight Time - {'domain': 'viralnity.com', 'mozrank': 0, 'da': 7.21, 'pa': 15.59}
+05/16/17 20:20:33 Central Daylight Time - {'domain': 'landbtc.com', 'mozrank': 0, 'da': 7.7, 'pa': 1}
+05/16/17 20:20:33 Central Daylight Time - {'domain': 'majcommerc.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:20:33 Central Daylight Time - Sleeping for 11 seconds.
+05/16/17 20:20:44 Central Daylight Time - Starting request
+05/16/17 20:20:45 Central Daylight Time - {'domain': 'watgonline.com', 'mozrank': 4.22, 'da': 21.41, 'pa': 34.1}
+05/16/17 20:20:45 Central Daylight Time - 
+Found potential good domain: {'domain': 'watgonline.com', 'mozrank': 4.22, 'da': 21.41, 'pa': 34.1}
+
+05/16/17 20:20:45 Central Daylight Time - {'domain': 'esiteguide.com', 'mozrank': 0, 'da': 6.32, 'pa': 19.32}
+05/16/17 20:20:45 Central Daylight Time - {'domain': 'metro-llc.com', 'mozrank': 0, 'da': 6.29, 'pa': 13.83}
+05/16/17 20:20:45 Central Daylight Time - {'domain': 'pinkjumble.com', 'mozrank': 0, 'da': 10.8, 'pa': 14.93}
+05/16/17 20:20:45 Central Daylight Time - {'domain': 'ahcjwx.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:20:45 Central Daylight Time - {'domain': 'eaveshsv.com', 'mozrank': 3.42, 'da': 8.97, 'pa': 21.77}
+05/16/17 20:20:45 Central Daylight Time - {'domain': 'szdinglun.com', 'mozrank': 0, 'da': 15.83, 'pa': 1}
+05/16/17 20:20:45 Central Daylight Time - {'domain': 'artcontra.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:20:45 Central Daylight Time - {'domain': 'ayamalarab.com', 'mozrank': 0, 'da': 6.32, 'pa': 16.66}
+05/16/17 20:20:45 Central Daylight Time - {'domain': 'metin2eco.com', 'mozrank': 0, 'da': 14.78, 'pa': 1}
+05/16/17 20:20:45 Central Daylight Time - Sleeping for 11 seconds.
+05/16/17 20:20:56 Central Daylight Time - Starting request
+05/16/17 20:20:57 Central Daylight Time - {'domain': 'kizukatech.com', 'mozrank': 4.79, 'da': 9.45, 'pa': 24.41}
+05/16/17 20:20:57 Central Daylight Time - {'domain': 'cqsaibao.com', 'mozrank': 0, 'da': 12.5, 'pa': 1}
+05/16/17 20:20:57 Central Daylight Time - {'domain': 'friv2ol.com', 'mozrank': 0, 'da': 11.55, 'pa': 1}
+05/16/17 20:20:57 Central Daylight Time - {'domain': 'planetazem.com', 'mozrank': 0, 'da': 8.11, 'pa': 18.2}
+05/16/17 20:20:57 Central Daylight Time - {'domain': 'redadda.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:20:57 Central Daylight Time - {'domain': 'arthanmo.com', 'mozrank': 0, 'da': 11.24, 'pa': 1}
+05/16/17 20:20:57 Central Daylight Time - {'domain': 'dgxingshun.com', 'mozrank': 0, 'da': 5.84, 'pa': 1}
+05/16/17 20:20:57 Central Daylight Time - {'domain': 'mixhibit.com', 'mozrank': 3.75, 'da': 18.74, 'pa': 28.4}
+05/16/17 20:20:57 Central Daylight Time - {'domain': '20aba.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:20:57 Central Daylight Time - {'domain': 'mp7outlet.com', 'mozrank': 0, 'da': 19.99, 'pa': 1}
+05/16/17 20:20:57 Central Daylight Time - Sleeping for 11 seconds.
+05/16/17 20:21:08 Central Daylight Time - Starting request
+05/16/17 20:21:09 Central Daylight Time - {'domain': 'fopaiwang.com', 'mozrank': 0, 'da': 11.89, 'pa': 14.57}
+05/16/17 20:21:09 Central Daylight Time - {'domain': 'gordesi.com', 'mozrank': 0, 'da': 10.86, 'pa': 1}
+05/16/17 20:21:09 Central Daylight Time - {'domain': 'stake-tag.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:21:09 Central Daylight Time - {'domain': 'tatabidule.com', 'mozrank': 0, 'da': 22.07, 'pa': 1}
+05/16/17 20:21:09 Central Daylight Time - {'domain': 'mofudeu.com', 'mozrank': 0, 'da': 9.24, 'pa': 1}
+05/16/17 20:21:09 Central Daylight Time - {'domain': 'arzimsarmy.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:21:09 Central Daylight Time - {'domain': 'vastearn.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:21:09 Central Daylight Time - {'domain': 'xmseorank.com', 'mozrank': 4.19, 'da': 13.99, 'pa': 27.05}
+05/16/17 20:21:09 Central Daylight Time - {'domain': 'iklan71.com', 'mozrank': 4.38, 'da': 16.99, 'pa': 30.52}
+05/16/17 20:21:09 Central Daylight Time - {'domain': 'galinalu.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:21:09 Central Daylight Time - Sleeping for 11 seconds.
+05/16/17 20:21:20 Central Daylight Time - Starting request
+05/16/17 20:21:21 Central Daylight Time - {'domain': 'juliatopaz.com', 'mozrank': 0, 'da': 8.39, 'pa': 1}
+05/16/17 20:21:21 Central Daylight Time - {'domain': 'creamst.com', 'mozrank': 4.13, 'da': 9.39, 'pa': 24.35}
+05/16/17 20:21:21 Central Daylight Time - {'domain': 'mdlblog.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:21:21 Central Daylight Time - {'domain': 'yutokuo.com', 'mozrank': 0, 'da': 14.22, 'pa': 1}
+05/16/17 20:21:21 Central Daylight Time - {'domain': 'cobycoku.com', 'mozrank': 3.49, 'da': 13.82, 'pa': 18.68}
+05/16/17 20:21:21 Central Daylight Time - {'domain': 'tairchu.com', 'mozrank': 0, 'da': 7.04, 'pa': 1}
+05/16/17 20:21:21 Central Daylight Time - {'domain': 'ahhgf.com', 'mozrank': 0, 'da': 6.31, 'pa': 1}
+05/16/17 20:21:21 Central Daylight Time - {'domain': 'merohotels.com', 'mozrank': 0, 'da': 3.77, 'pa': 1}
+05/16/17 20:21:21 Central Daylight Time - {'domain': 'isosims.com', 'mozrank': 0, 'da': 8.89, 'pa': 13.32}
+05/16/17 20:21:21 Central Daylight Time - {'domain': 'relifeit.com', 'mozrank': 0, 'da': 13.64, 'pa': 1}
+05/16/17 20:21:21 Central Daylight Time - Sleeping for 11 seconds.
+05/16/17 20:21:32 Central Daylight Time - Starting request
+05/16/17 20:21:33 Central Daylight Time - {'domain': 'noriraq.com', 'mozrank': 0, 'da': 11.01, 'pa': 1}
+05/16/17 20:21:33 Central Daylight Time - {'domain': 'catiebeth.com', 'mozrank': 0, 'da': 14.25, 'pa': 21.04}
+05/16/17 20:21:33 Central Daylight Time - {'domain': 'builtosell.com', 'mozrank': 0, 'da': 8.09, 'pa': 20.75}
+05/16/17 20:21:33 Central Daylight Time - {'domain': 'zhouyi39.com', 'mozrank': 0, 'da': 15.1, 'pa': 15.49}
+05/16/17 20:21:33 Central Daylight Time - {'domain': 'tweakjs.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:21:33 Central Daylight Time - {'domain': 'hntenghui.com', 'mozrank': 0, 'da': 16.78, 'pa': 1}
+05/16/17 20:21:33 Central Daylight Time - {'domain': 'smartoye.com', 'mozrank': 0, 'da': 9.91, 'pa': 1}
+05/16/17 20:21:33 Central Daylight Time - {'domain': 'appgabble.com', 'mozrank': 0, 'da': 8.85, 'pa': 1}
+05/16/17 20:21:33 Central Daylight Time - {'domain': 'puukkoallu.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:21:33 Central Daylight Time - {'domain': 'glam4glam.com', 'mozrank': 3.04, 'da': 11.21, 'pa': 21.53}
+05/16/17 20:21:33 Central Daylight Time - Sleeping for 11 seconds.
+05/16/17 20:21:44 Central Daylight Time - Starting request
+05/16/17 20:21:45 Central Daylight Time - {'domain': 'kerjaforex.com', 'mozrank': 0, 'da': 8.79, 'pa': 1}
+05/16/17 20:21:45 Central Daylight Time - {'domain': 'dev4source.com', 'mozrank': 0, 'da': 18.63, 'pa': 1}
+05/16/17 20:21:45 Central Daylight Time - {'domain': 'twdvdsale.com', 'mozrank': 0, 'da': 6.96, 'pa': 1}
+05/16/17 20:21:45 Central Daylight Time - {'domain': 'ahrsd.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:21:45 Central Daylight Time - {'domain': 'grafoemp.com', 'mozrank': 0, 'da': 10.36, 'pa': 1}
+05/16/17 20:21:45 Central Daylight Time - {'domain': 'ncomonline.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:21:45 Central Daylight Time - {'domain': 'btc-center.com', 'mozrank': 0, 'da': 8.09, 'pa': 16.15}
+05/16/17 20:21:45 Central Daylight Time - {'domain': 'pccergy.com', 'mozrank': 0, 'da': 11.03, 'pa': 1}
+05/16/17 20:21:45 Central Daylight Time - {'domain': 'k2proxy.com', 'mozrank': 3.95, 'da': 17.76, 'pa': 28.17}
+05/16/17 20:21:45 Central Daylight Time - {'domain': 'xta-tech.com', 'mozrank': 3.02, 'da': 7.96, 'pa': 20.67}
+05/16/17 20:21:45 Central Daylight Time - Sleeping for 11 seconds.
+05/16/17 20:21:56 Central Daylight Time - Starting request
+05/16/17 20:21:57 Central Daylight Time - {'domain': 'grupordf.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:21:57 Central Daylight Time - {'domain': 'aahhmm.com', 'mozrank': 0, 'da': 11.47, 'pa': 1}
+05/16/17 20:21:57 Central Daylight Time - {'domain': 'mltattoos.com', 'mozrank': 0, 'da': 6.49, 'pa': 1}
+05/16/17 20:21:57 Central Daylight Time - {'domain': '98like.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:21:57 Central Daylight Time - {'domain': '5moncler.com', 'mozrank': 0, 'da': 4.98, 'pa': 16.76}
+05/16/17 20:21:57 Central Daylight Time - {'domain': 'ritsip.com', 'mozrank': 0, 'da': 7.93, 'pa': 14.67}
+05/16/17 20:21:57 Central Daylight Time - {'domain': 'b2bconsul.com', 'mozrank': 3.74, 'da': 14.4, 'pa': 28.3}
+05/16/17 20:21:57 Central Daylight Time - {'domain': 'bangbijing.com', 'mozrank': 0, 'da': 1, 'pa': 1}
+05/16/17 20:21:57 Central Daylight Time - {'domain': 'lamaolopvn.com', 'mozrank': 0, 'da': 8.23, 'pa': 13.69}
+05/16/17 20:21:57 Central Daylight Time - {'domain': 'ecpipe.com', 'mozrank': 0, 'da': 27.78, 'pa': 1}
+05/16/17 20:21:57 Central Daylight Time - Sleeping for 11 seconds.
