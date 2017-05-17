@@ -31,6 +31,8 @@ domainname3.com
 
 5. Once all domains from `domains.txt` have been processed, the results raw results will be found inside of `results.jl`. In order to make sense of this information, a .csv file, titled with the appropriate timestamp, will also be created in the `./output` directory.
 
+6. Analyze the results and do further research on the domains that were filtered. Just because it has high metrics, doesn't mean that it's good. Do your research!
+
 **Logging**
 
 A verbose log stream is kept in `log.txt`.
