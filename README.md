@@ -4,6 +4,10 @@ CLI tool for checking and reporting Moz domain name statistics. This tool with g
 - Domain Authority
 - Page Authority
 
+**Why?**
+
+Useful for finding expired domain name that have already been previously promoted and have built reputations and search engine results. I find the existing free tools lacking, limited, and requiring too much manual intervention. Also, paid tools are absurdly expensive.
+
 **Requirements**
 - Python 3
 - No external pip packages required.
