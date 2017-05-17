@@ -1,5 +1,5 @@
 # Moz Domain Checker
-CLI tool for checking and reporting Moz domain name statistics. This tool with generate a .csv report with the following information.
+CLI tool for bulk checking and reporting Moz domain name statistics. This tool with generate a .csv report with the following information.
 - MozRank
 - Domain Authority
 - Page Authority
