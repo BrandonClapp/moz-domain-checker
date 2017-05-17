@@ -18,6 +18,12 @@ Useful for finding expired domain names that have already been previously promot
 2. Navigate to `settings.py` and change the `access_id` and `secret_key` to the appropriate values. To obtain these values, sign up for a free Mozscape account at https://moz.com/products/api
     - Note: Free accounts are limited to 25,000 rows per month and throttled to 1 request (containing a maximum of 10 domains) per 10 seconds.
     
+```python
+# API Authentication Settings
+access_id = settings_dev.access_id or 'your-access-key-here'
+secret_key = settings_dev.secret_key or 'your-secret-key-here'
+```
+    
 3. Populate `domains.txt` with a list of desired domain names. i.e.
 
 ```
