@@ -179,3 +179,6 @@
 {'domain': 'cokebust.com', 'mozrank': 4.39, 'da': 28.3, 'pa': 38.45}
 {'domain': 'jsunittest.com', 'mozrank': 4.67, 'da': 23.44, 'pa': 35.81}
 {'domain': 'revellish.com', 'mozrank': 4.02, 'da': 18.15, 'pa': 30.96}
+{'domain': 'deshtunes.com', 'mozrank': 3.41, 'da': 21.97, 'pa': 27.41}
+{'domain': 'ramaturizm.com', 'mozrank': 5.66, 'da': 28.22, 'pa': 26.94}
+{'domain': 'twyxmotor.com', 'mozrank': 6.21, 'da': 30.19, 'pa': 35.58}
