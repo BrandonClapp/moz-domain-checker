@@ -340,3 +340,9 @@
 {'domain': 'rafclaims.com', 'mozrank': 4.32, 'da': 19.35, 'pa': 32.72}
 {'domain': 'offyapop.com', 'mozrank': 4.03, 'da': 19.27, 'pa': 24.95}
 {'domain': 'photoeditz.com', 'mozrank': 4.01, 'da': 21.37, 'pa': 34.42}
+{'domain': 'go2glys.com', 'mozrank': 4.0, 'da': 25.3, 'pa': 25.81}
+{'domain': 'aisybee.com', 'mozrank': 4.2, 'da': 24.04, 'pa': 36.55}
+{'domain': 'bizclir.com', 'mozrank': 3.24, 'da': 18.35, 'pa': 21.94}
+{'domain': 'lakajira.com', 'mozrank': 3.77, 'da': 18.63, 'pa': 24.13}
+{'domain': 'divatris.com', 'mozrank': 3.83, 'da': 17.36, 'pa': 30.76}
+{'domain': 'glipmax.com', 'mozrank': 3.08, 'da': 17.65, 'pa': 26.07}
