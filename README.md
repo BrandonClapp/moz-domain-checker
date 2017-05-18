@@ -20,8 +20,8 @@ Useful for finding expired domain names that have already been previously promot
     
 ```python
 # API Authentication Settings
-access_id = settings_dev.access_id if settings_dev else 'put-your-access-id-here'
-secret_key = settings_dev.secret_key if settings_dev else 'put-your-secret-key-here'
+ACCESS_ID = settings_dev.ACCESS_ID if settings_dev else 'put-your-access-id-here'
+SECRET_KEY = settings_dev.SECRET_KEY if settings_dev else 'put-your-secret-key-here'
 ```
     
 3. Populate `domains.txt` with a list of desired domain names. i.e.
