@@ -27,4 +27,15 @@ for idx, domain in enumerate(chunk):
         "pa": pa,
     }
 
-    print(str(result))
+    #print(str(result))
+
+
+# item = {
+#     "domain": "mydomainname.com",
+#     "mozrank": 4.3,
+#     "da": 2.3,
+#     "pa": 2.4,
+# }
+#
+# sql = "INSERT INTO domains VALUES ('%s', %s, %s, %s)" %(item['domain'], item['mozrank'], item['da'], item['pa'])
+# print(sql)

@@ -2,8 +2,8 @@ import json
 import time
 from datetime import datetime
 from mozscape import Mozscape, MOZRANK, DOMAIN_AUTHORITY, PAGE_AUTHORITY
-from domain_importer import content as domains, chunks
-from result_exporter import write, log, skip
+from domain_importer import domains, chunks
+from data_utils import write_domain, log, skip
 import result_analyzer
 import settings
 
@@ -39,8 +39,8 @@ for chunk in domain_chunks:
         if mozrank >= settings.minimum_mozrank and \
             da >= settings.minimum_da and \
             pa >= settings.minimum_pa:
-            log('\nFound potential good domain: %s\n' %(str(result)))
-            write(result)
+            log('\n--- Matches Criteria --- \n%s\n' %(str(result)))
+            write_domain(result)
 
     log('Sleeping for %s seconds.' %(str(settings.request_interval)))
     time.sleep(settings.request_interval)

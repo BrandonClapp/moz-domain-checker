@@ -13,3 +13,6 @@ request_interval = 11  # Number of seconds between each Moz request.
 minimum_mozrank = 3
 minimum_da = 17
 minimum_pa = 15
+
+# Data
+db_name = 'data.db'
