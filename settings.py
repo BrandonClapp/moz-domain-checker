@@ -5,14 +5,17 @@ except:
     settings_dev = None
 
 # API Authentication Settings
-access_id = settings_dev.access_id if settings_dev else 'my-access-key'
-secret_key = settings_dev.secret_key if settings_dev else 'my-secret-key'
-request_interval = 11  # Number of seconds between each Moz request.
+ACCESS_ID = settings_dev.access_id if settings_dev else 'my-access-key'
+SECRET_KEY = settings_dev.secret_key if settings_dev else 'my-secret-key'
+REQUEST_INTERVAL = 11  # Number of seconds between each Moz request.
 
 # Threshold Settings
-minimum_mozrank = 3
-minimum_da = 17
-minimum_pa = 15
+MINIMUM_MOZRANK = 3
+MINIMUM_DA = 17
+MINIMUM_PA = 15
 
-# Data
-db_name = 'data.db'
+# Database
+DB_NAME = 'data.db'
+
+# Reporting
+OUT_DIR = './output/'

@@ -1,15 +1,15 @@
 import json
 import time
 from datetime import datetime
-from mozscape import Mozscape, MOZRANK, DOMAIN_AUTHORITY, PAGE_AUTHORITY
+from mozscape import Mozscape, MozscapeError, MOZRANK, DOMAIN_AUTHORITY, PAGE_AUTHORITY
 from domain_importer import domains, chunks
-from data_utils import write_domain, log, skip
-import result_analyzer
+from data_utils import write_chunk, log
+import report
 import settings
 
 domain_chunks = chunks(domains, 10)
 
-client = Mozscape(settings.access_id, settings.secret_key)
+client = Mozscape(settings.ACCESS_ID, settings.SECRET_KEY)
 
 for chunk in domain_chunks:
     log('Starting request')
@@ -18,9 +18,9 @@ for chunk in domain_chunks:
         metrics = client.urlMetrics(chunk)
     except MozscapeError as e:
         log('ERROR! : %s' %(e))
-        skip(chunk)
         continue
 
+    results = []
     for idx, domain in enumerate(chunk):
         metric = metrics[idx]
         mozrank = round(metric[MOZRANK], 2)
@@ -35,17 +35,20 @@ for chunk in domain_chunks:
         }
 
         log(result)
+        results.append(result)
 
-        if mozrank >= settings.minimum_mozrank and \
-            da >= settings.minimum_da and \
-            pa >= settings.minimum_pa:
+        if mozrank >= settings.MINIMUM_MOZRANK and \
+            da >= settings.MINIMUM_DA and \
+            pa >= settings.MINIMUM_PA:
             log('\n--- Matches Criteria --- \n%s\n' %(str(result)))
-            write_domain(result)
 
-    log('Sleeping for %s seconds.' %(str(settings.request_interval)))
-    time.sleep(settings.request_interval)
+    write_chunk(results)
+    results = []
+
+    log('Sleeping for %s seconds.' %(str(settings.REQUEST_INTERVAL)))
+    time.sleep(settings.REQUEST_INTERVAL)
 
 log('Converting results.ji to csv format.')
 timestamp = datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d-%H-%M-%S')
-result_analyzer.convert(filename=timestamp + '.csv')
+report.generate(filename=timestamp + '.csv')
 log('Completed converting results.ji to csv format.')

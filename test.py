@@ -1,3 +1,7 @@
+"""
+    Scrap file for testing stuff.
+"""
+
 import mozscape
 
 chunk = [
