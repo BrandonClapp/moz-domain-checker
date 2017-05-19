@@ -382,6 +382,14 @@ class Mozscape:
             SourceCols=sourceCols,
             LinkCols=linkCols)
 
-MOZRANK = 'umrp'
-DOMAIN_AUTHORITY = 'pda'
-PAGE_AUTHORITY = 'upa'
+class Alias:
+    TITLE = 'ut'
+    CANONICAL_URL = 'uu'
+    EXTERNAL_EQUITY_LINKS = 'ueid'
+    LINKS = 'uid'
+    MOZRANK = 'umrp'
+    MOZRANK_SUBDOMAIN = 'fmrp'
+    STATUS_CODE = 'us'
+    DOMAIN_AUTHORITY = 'pda'
+    PAGE_AUTHORITY = 'upa'
+    MOZ_TIME_LAST_CRAWLED = 'ulc'
